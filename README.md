@@ -6,6 +6,10 @@ This app suggests similar movies based on genres, cast, keywords, and overview.
 ## Dataset
 This project uses the **TMDB 5000 Movies Dataset**, available on [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
+## Jupyter Notebook
+You can check out the full data preprocessing and model building steps here:  
+[Movie Recommandations Notebook](Movie%20Recommandations.ipynb)
+
 ##  Live Demo
 Try out the app here: [https://movie-recommendations-mqss.onrender.com/](https://movie-recommendations-mqss.onrender.com/)
 
