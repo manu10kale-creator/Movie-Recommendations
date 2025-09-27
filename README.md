@@ -20,7 +20,7 @@ Try out the app here: [https://movie-recommendations-mqss.onrender.com/](https:/
 - Data preprocessed and stored in **pickle files**  
 
 ##  Project Structure
-- `app.py` → Main Streamlit app  
+- `main.py` → Main Streamlit app  
 - `movies.pkl` → Preprocessed movie data  
 - `similarity.pkl` → Cosine similarity matrix  
 - `requirements.txt` → Required dependencies
